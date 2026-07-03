@@ -1,0 +1,10 @@
+{
+  "num_samples": 6,
+  "avg_overlap": 0.3958754208754209,
+  "best_image": "3712742641_641282803e.jpg",
+  "best_prediction": "a black and white dog is standing in a stream",
+  "best_overlap": 0.6363636363636364,
+  "worst_image": "3231751379_10ebf7150c.jpg",
+  "worst_prediction": "hockey players on a hockey game",
+  "worst_overlap": 0.2222222222222222
+}
